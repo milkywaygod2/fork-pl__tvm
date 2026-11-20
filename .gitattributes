@@ -1,2 +1,5 @@
 Jenkinsfile linguist-generated=true
 ci/jenkins/generated/* linguist-generated=true
+
+# JFW 공통 정책 - Markdown 작업본은 모든 운영체제에서 LF
+*.md        text eol=lf
